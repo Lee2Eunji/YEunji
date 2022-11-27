@@ -180,7 +180,6 @@ textarea {
 }
 
 .animation-heart.animation {
-    animation: popup .8s linear;
     visibility: visible;
 }
 
